@@ -8,7 +8,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "MPV Solutions | Suministros Eléctricos Industriales",
+  title: "MPV Electric Solution | Suministros Eléctricos Industriales",
   description: "Distribución y comercialización de materiales eléctricos certificados para minería, petróleo, gas y desarrollo industrial.",
 };
 
@@ -27,11 +27,11 @@ export default function RootLayout({
               <a href="/" className="flex items-center gap-3 group">
                 <img
                   src="/logo.webp"
-                  alt="MPV Solutions Logo"
+                  alt="MPV Electric Solution Logo"
                   className="h-11 w-auto object-contain transition-transform group-hover:scale-105 duration-300"
                 />
                 <span className="text-lg font-black text-white tracking-wider group-hover:text-yellow-500 transition-colors uppercase">
-                  MPV Solutions
+                  MPV Electric Solution
                 </span>
               </a>
 
@@ -51,9 +51,9 @@ export default function RootLayout({
           <footer className="border-t border-neutral-800 bg-neutral-950 py-12">
             <div className="container mx-auto px-4 md:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
               <div className="flex items-center gap-3">
-                <img src="/logo.webp" alt="MPV Solutions Logo" className="h-7 w-auto object-contain grayscale opacity-60" />
+                <img src="/logo.webp" alt="MPV Electric Solution Logo" className="h-7 w-auto object-contain grayscale opacity-60" />
                 <p className="text-sm text-neutral-500">
-                  &copy; {new Date().getFullYear()} MPV Solutions. Todos los derechos reservados.
+                  &copy; {new Date().getFullYear()} MPV Electric Solution. Todos los derechos reservados.
                 </p>
               </div>
               <div className="flex gap-6 text-sm text-neutral-400">

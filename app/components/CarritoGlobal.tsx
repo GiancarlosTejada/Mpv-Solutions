@@ -4,7 +4,7 @@ import React from 'react';
 import { useCart } from '../context/CartContext';
 import { useRouter } from 'next/navigation';
 
-const EMAIL_DESTINO = 'mpvelectricsolutions@gmail.com';
+const EMAIL_DESTINO = 'sales@mpvelectric.com';
 
 export default function CarritoGlobal() {
   const { carrito, isCartOpen, setIsCartOpen, actualizarCantidad, eliminarDelCarrito, totalItems, isMounted } = useCart();
@@ -106,9 +106,9 @@ export default function CarritoGlobal() {
                 </div>
                 <div className="flex items-center gap-4 mt-1">
                   <div className="flex items-center bg-neutral-900 border border-neutral-700 rounded-lg overflow-hidden">
-                    <button onClick={() => actualizarCantidad(item.id_unico, -1)} className="px-3 py-1 text-neutral-400 hover:text-white hover:bg-neutral-800 transition-colors">-</button>
+                    <button onClick={() => actualizarCantidad(item.id_unico, -1)} className="px-4 py-2 text-neutral-400 hover:text-white hover:bg-neutral-800 transition-colors">-</button>
                     <span className="px-3 py-1 text-sm font-medium text-white min-w-[2rem] text-center">{item.cantidad}</span>
-                    <button onClick={() => actualizarCantidad(item.id_unico, 1)} className="px-3 py-1 text-neutral-400 hover:text-white hover:bg-neutral-800 transition-colors">+</button>
+                    <button onClick={() => actualizarCantidad(item.id_unico, 1)} className="px-4 py-2 text-neutral-400 hover:text-white hover:bg-neutral-800 transition-colors">+</button>
                   </div>
                 </div>
               </div>
