@@ -50,8 +50,8 @@ export const catalogoAgrupado: ProductoAgrupado[] = [
     ]
   },
   {
-    id: "cmetal-form5-lb",
-    marca: "CMETAL",
+    id: "Cantex-form5-lb",
+    marca: "Cantex",
     nombre: "CONDUIT BODY FORM 5 TYPE LB, IRON, HDG, UL",
     familia: "Conduit, Fittings & Accessories",
     opciones: [
@@ -59,8 +59,8 @@ export const catalogoAgrupado: ProductoAgrupado[] = [
     ]
   },
   {
-    id: "cmetal-form5-lr",
-    marca: "CMETAL",
+    id: "Cantex-form5-lr",
+    marca: "Cantex",
     nombre: "CONDUIT BODY FORM 5 TYPE LR, IRON, HDG, UL",
     familia: "Conduit, Fittings & Accessories",
     opciones: [
@@ -69,8 +69,8 @@ export const catalogoAgrupado: ProductoAgrupado[] = [
     ]
   },
   {
-    id: "cmetal-form5-t",
-    marca: "CMETAL",
+    id: "Cantex-form5-t",
+    marca: "CANTEX",
     nombre: "CONDUIT BODY FORM 5 TYPE T, IRON, HDG, UL",
     familia: "Conduit, Fittings & Accessories",
     opciones: [
@@ -79,8 +79,8 @@ export const catalogoAgrupado: ProductoAgrupado[] = [
     ]
   },
   {
-    id: "cplast-conduit-sch40",
-    marca: "CPLAST",
+    id: "Cantex-conduit-sch40",
+    marca: "Cantex",
     nombre: "CONDUIT PVC SCH40 x10FT BELLED END",
     familia: "Conduit, Fittings & Accessories",
     opciones: [
@@ -94,8 +94,8 @@ export const catalogoAgrupado: ProductoAgrupado[] = [
     ]
   },
   {
-    id: "cplast-conduit-sch80",
-    marca: "CPLAST",
+    id: "Cantex-conduit-sch80",
+    marca: "Cantex",
     nombre: "CONDUIT PVC SCH80 x10FT BELLED END",
     familia: "Conduit, Fittings & Accessories",
     opciones: [
