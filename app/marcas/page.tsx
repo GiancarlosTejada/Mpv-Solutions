@@ -12,7 +12,6 @@ export default function MarcasPage() {
     { nombre: "SYP", desc: "Sistemas de soportería y canalizaciones metálicas diseñadas para resistir cargas mecánicas severas en plantas de procesamiento y minería." },
     { nombre: "THOMPSON", desc: "Sistemas de protección contra descargas atmosféricas (pararrayos) y mallas de puesta a tierra indispensables para la seguridad de activos industriales." },
     { nombre: "FLOWCOM", desc: "Soluciones de instrumentación y control de flujo industrial, conectores y acoples rápidos para instrumentación de procesos automatizados." },
-    { nombre: "CPLAST", desc: "Canalizaciones plásticas especializadas y cajas de paso con alta resistencia a agentes químicos y entornos altamente corrosivos." },
     { nombre: "FLORIDA STRUT", desc: "Sistemas de perfiles Strut, abrazaderas y herrajes modulares galvanizados para el montaje rápido y seguro de bandejas y tuberías." },
     { nombre: "SEPCO", desc: "Conectores y accesorios metálicos de precisión para tuberías conduit, asegurando la continuidad eléctrica de la canalización." },
     { nombre: "PRODUIT", desc: "Conductores eléctricos especiales y cables de control apantallados para automatización industrial y señales libres de interferencias." },
