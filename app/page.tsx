@@ -58,7 +58,7 @@ export default function Home() {
                 Explorar Catálogo
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>
               </a>
-              <a href="#contacto" className="w-full sm:w-auto text-center bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-white font-semibold px-8 py-4 rounded-lg transition">
+              <a href="/contacto" className="w-full sm:w-auto text-center bg-neutral-800 hover:bg-neutral-700 border border-neutral-700 text-white font-semibold px-8 py-4 rounded-lg transition">
                 Contactar Ventas
               </a>
             </div>

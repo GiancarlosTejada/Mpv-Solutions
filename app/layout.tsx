@@ -39,7 +39,7 @@ export default function RootLayout({
               <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-neutral-400">
                 <a href="/marcas" className="hover:text-white transition-colors">Marcas y Alianzas</a>
                 <a href="/catalogo" className="hover:text-white transition-colors">Productos</a>
-                <a href="#contacto" className="hover:text-white transition-colors">Contacto</a>
+                <a href="/contacto" className="hover:text-white transition-colors">Contacto</a>
               </div>
             </div>
           </footer>
